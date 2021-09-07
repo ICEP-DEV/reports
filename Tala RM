@@ -55,3 +55,28 @@ On this week we started to attend work at the campus and most of us were not rea
 to know our team members. I had pushed the project which was missing some folders because of Gitingore file. I managed to delete the file 
 and push the overall project from my local directory. The forgot password component and form were created, awaiting testing. On our back-end 
 the Database, Validation, login and registration pages were up and running. Our Bas had completed the Sequence, ERD, and Use Case diagrams. 
+
+Week 9-13
+On this week we managed to create the connection between the front and back-end repositories. We created APIs to connect the two repos, and 
+error handling and validation was done on both the front and back-end. We started with the development of home page and also the forgot password
+page managed to send the email containing the password for login to the user email address. New AWS course was sent to us to register and I completed
+the Agile foundation course this week.
+
+Week 16-20
+During this week we implemented Lecturer Registration, login and also Admin login. We created the APIs for them and the Radio buttons we added on the Front
+for Student and Lecturer on the Registration page, for Student, Lecturer, and Admin on the login Page. We also Modified the Validation and Error Handling. 
+Lab Booking and Profile page were implemented on both the back and front repos, API was created and we managed to retrieve data of only the available labs 
+from the database.
+
+Week 23-27
+On this week we changed front-end validation in order to support our back-end code, we also created a JWT token which acted as a session to store the details 
+of the person who logged in our system on the localStorage. That token was used to show the details of the currently logged in person on the home and profile page.
+It will also be used on the booking status page. Booking details page and API was created, we had a problem displaying only the booking details of one person because
+of the method we used. 
+
+SEPTEMBER
+
+Week 30-3
+During this week we still faced the problem of logging the student number to the console in order to retrieve the booking details of only one user. The Lab booking 
+API was changed from working daily to schedule. The View User, View Bookings, and Admin pages were implemented on the front. The Footer was added on all the pages and 
+wireframes were modified.
