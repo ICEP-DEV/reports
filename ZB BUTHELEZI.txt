@@ -1,0 +1,55 @@
+on The 15th June
+Our first day at work was on the 15th of June 2021, an induction was conducted and we learned about everything there 
+is to know about ICEP. From Leak Teams, Amazon web service, programs offered at ICEP, and ofcourse ICEP tools. All the
+Organization members were properly introduced and everyone got a chance to express themselves in terms of what they 
+learned during the induction. 
+
+we learned about Devops and the difference between quality assurance, testing and also agile testing. We were also informed about the AWS programme,
+we also had to sign the WIL forms and also send our git usernames electronically. One of our lead team have sent us video tutorial
+that were informative and gave us a foundation on UML,APIS and the database 
+
+on the 5th of July
+
+On this week we continued with our registration while starting to work from home at the same time. I registered for Agile 
+Foundation course and We also started with AWS educate and 
+a progress monitor spreadsheet was sent to us for progress tracking so we could see if we were all doing the work. I managed 
+to complete the foundation pathway on the AWS educate this week. 
+
+on the 12th of july
+I completed the AWS management console module in which i have learnt how to navigate through the AWS Console. We started with the planning
+Weekly-Report project and everyone is playing their part.Since receiving the existing system, we have changed and updated the 
+interface of all pages, while keeping most of the structure.
+ The errors were corrected and the plan was submitted, developing the system was our next
+task. We received a list of the software we need to install in order to get started with the development process.Combined the Landing page and home page into one page that serves as both, 
+with links that lead to the Login and Register page respectively. 
+ 
+on the 19 of July
+With some little guidance from our leaders we managed to install all the necessary software we will be using to develop the system. 
+We started with the development of the Weekly-Report project, we received a UML from our BAs, Registration and Login page were the first ones we had to 
+implement.We from the developers side had to learn how to use Angular, IONIC,SCSS 
+Git bash, and Vs code in order to start with the development of the system. 
+
+i did some validation for the Weekly-Report system to allow only registered and login for Lecture and i also validated the system to only take existing emails only.
+we were also told that we will start to report to office from monday and they sent us a schedule for august.
+
+ 
+on th 2nd of AUGUST 
+
+we reported to the office for the first time our lead team explained the schedule to us and told us we will have daily scrums at 10:30.
+i started by doing a set up for ssh and cloning the repo of our project.
+-We updated the register form (also in database) to make it so that after
+selecting a department, when choosing a module it only displays the modules 
+in the prior selected department. Added a few departments and their 
+respective modules in DB for example/presentation purposes.
+ 
+on 20th of AUGUST
+
+
+On the Lecturer Detailed Report page, we fixed it so that after submitting the 
+form from Lecturer report page, all the information submitted into the DB 
+displayed.
+-We are currently working on the HOD dashboard, where we are struggling to 
+display the HOD details “Onload” from the database. Collecting the submitted 
+lecturer reports to display, sort and search them, it still proving to be difficult 
+at the moment.
+-Fixed and updated the service components.
